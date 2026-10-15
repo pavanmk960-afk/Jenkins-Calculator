@@ -1,4 +1,4 @@
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+a = 10
+b = 20
 print("Addition", a + b)
 print("Subtraction", a - b)
